@@ -10,7 +10,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- Outside tech, 💜I love playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="lucabenjaminsicoli@gmail.com">lucabenjaminsicoli@gmail.com</a>
 
@@ -41,6 +41,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <a href= "https://www.instagram.com/luca_sicoli/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+<a href= "https://www.linkedin.com/in/lbs12/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
